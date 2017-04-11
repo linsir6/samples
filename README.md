@@ -2,6 +2,8 @@
 
 # WebRTC code samples #
 
+一个webtrc的项目的安卓端，这里面也有后端。 P2P的项目。
+
 This is a repository for the WebRTC Javascript code samples.
 
 Some of the samples use new browser features. They may only work in Chrome Canary and/or Firefox Beta, and may require flags to be set.
